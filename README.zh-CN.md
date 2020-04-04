@@ -57,4 +57,5 @@
   - 在受控组件上指定 value 的 prop 会阻止用户更改输入。如果你指定了 value，但输入仍可编辑，则可能是你意外地将value 设置为 undefined 或 null
 
   * 处理表单插件 [formik](https://jaredpalmer.com/formik/docs/overview#installation)
-  * 验证配套插件 [Yup]()
+  * 验证配套插件 [Yup](https://www.npmjs.com/package/yup)
+  * 样式插件 [@emotion/styled](https://www.npmjs.com/package/@emotion/styled)

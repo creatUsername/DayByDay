@@ -7,7 +7,9 @@ import Demo04 from './components/Demo04'
 import Demo05 from './components/Demo05'
 import Demo06 from './components/Demo06'
 import Demo07 from './components/Demo07'
-import FormikDemo from './components/Demo07/FormikDemo'
+import FormikDemo from './components/Formik/FormikDemo'
+import FormikDemo1 from './components/Formik'
+import Signup from './components/Formik/Signup'
 
 function App() {
   return (
@@ -19,7 +21,9 @@ function App() {
       {/* <Demo05 /> */}
       {/* <Demo06 /> */}
       {/* <Demo07 /> */}
-      <FormikDemo />
+      {/* <FormikDemo /> */}
+      {/* <FormikDemo1 /> */}
+      <Signup />
     </div>
   );
 }
