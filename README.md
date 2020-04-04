@@ -1,10 +1,14 @@
 ## Look
-
-  - [笔记](./README.zh-CN.md)
-
-### 2020/4/4 Sat
+  - [Note](./README.zh-CN.md)
 
 ----
+
+## Link
+  - [2020/4/4 Sat](#202044-sat)
+
+----
+
+### 2020/4/4 Sat
 
 #### Task list
 
