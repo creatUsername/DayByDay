@@ -14,4 +14,4 @@
 
 - [x] React documetation core
 - [x] Formik
-- [ ] Yup
+- [x] Yup
